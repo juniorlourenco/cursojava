@@ -10,7 +10,11 @@ public class SuperUsuario {
         this.senha = senha;
     }
 
-    public String getLogin() { return login; }
+    public String getLogin() { 
+        return login;
+    }
 
-    protected String getSenha() { return senha; }
+    protected String getSenha() { 
+        return senha;
+    }
 }
